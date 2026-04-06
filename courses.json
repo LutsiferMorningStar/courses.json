@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Python Asoslari",
+    "img": "https://picsum.photos/id/201/300/180",
+    "video": "https://www.youtube.com/embed/dQw4w9wgxcq"
+  },
+  {
+    "id": 2,
+    "title": "HTML & CSS To'liq",
+    "img": "https://picsum.photos/id/237/300/180",
+    "video": "https://www.youtube.com/embed/dQw4w9wgxcq"
+  }
+]
